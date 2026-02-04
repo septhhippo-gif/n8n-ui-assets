@@ -5,20 +5,21 @@
       "username": "septh",
       "password_hash": "4a449d1af524b98eb405bccc22fee0acc71d074c7c0206faaebab02ae0386920",
       "role": "admin",
-      "avatar_url": "https://.../avatar.png",
-      "display_name": "Septh"
+      "avatar_url": "https://github.com/septhhippo-gif/n8n-ui-assets/blob/main/ChatGPT%20Image%204%20%E0%B8%81.%E0%B8%9E.%202569%2021_42_49.png?raw=true",
+      "display_name": "Developers"
     },
     {
       "username": "account",
       "password_hash": "4a449d1af524b98eb405bccc22fee0acc71d074c7c0206faaebab02ae0386920",
       "role": "staff",
-      "avatar_url": ""
+      "avatar_url": "https://github.com/septhhippo-gif/n8n-ui-assets/blob/main/ChatGPT%20Image%204%20%E0%B8%81.%E0%B8%9E.%202569%2021_42_49.png?raw=true"
     },
     {
       "username": "online",
       "password_hash": "4a449d1af524b98eb405bccc22fee0acc71d074c7c0206faaebab02ae0386920",
       "role": "staff",
-      "avatar_url": ""
+      "avatar_url": "https://github.com/septhhippo-gif/n8n-ui-assets/blob/main/ChatGPT%20Image%204%20%E0%B8%81.%E0%B8%9E.%202569%2021_42_49.png?raw=true"
     }
   ]
 }
+
