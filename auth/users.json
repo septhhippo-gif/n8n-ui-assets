@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "users": [
+    { "username": "septh", "password_hash": "4a449d1af524b98eb405bccc22fee0acc71d074c7c0206faaebab02ae0386920" },
+    { "username": "account", "password_hash": "4a449d1af524b98eb405bccc22fee0acc71d074c7c0206faaebab02ae0386920" },
+    { "username": "online", "password_hash": "4a449d1af524b98eb405bccc22fee0acc71d074c7c0206faaebab02ae0386920" }
+  ]
+}
