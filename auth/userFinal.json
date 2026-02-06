@@ -10,14 +10,14 @@
     },
     {
       "username": "account",
-      "password_hash": "4a449d1af524b98eb405bccc22fee0acc71d074c7c0206faaebab02ae0386920",
+      "password_hash": "eef6aee3a6a4568014ef2ca124d47bd4e88470391cbc5f48b36c9401eaf24791",
       "role": "staff",
       "avatar_url": "https://github.com/septhhippo-gif/n8n-ui-assets/blob/main/ChatGPT%20Image%204%20%E0%B8%81.%E0%B8%9E.%202569%2021_42_49.png?raw=true",
       "display_name": "แผนกบัญชี"
     },
     {
       "username": "online",
-      "password_hash": "4a449d1af524b98eb405bccc22fee0acc71d074c7c0206faaebab02ae0386920",
+      "password_hash": "4e27faeaf9eb7d11954049dc39c176313f30ffd850ca6d20b3235260a8d17d1b",
       "role": "staff",
       "avatar_url": "https://i.ibb.co/p6jVkHWs/Stock.jpg",
       "display_name": "แผนกออนไลน์"
